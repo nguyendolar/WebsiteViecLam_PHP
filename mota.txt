@@ -1,0 +1,9 @@
+Trang chủ
+Hiển thị danh sách công ty
+Hiển thị danh sách việc làm
+Đăng ký tài khoản cty
+Đăng nhập tài khoản cty
+Đăng thông tin việc làm
+Quản lý danh sách việc làm đã đăng
+Cập nhập thông tin việc làm
+Xoá thông tin việc làm
