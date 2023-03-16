@@ -1,3 +1,4 @@
+Website việc làm gồm các chức năng
 Trang chủ
 Hiển thị danh sách công ty
 Hiển thị danh sách việc làm
