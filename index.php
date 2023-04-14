@@ -29,7 +29,28 @@
         <div class="row d-md-flex no-gutters slider-text align-items-center justify-content-center" style="height : 500px !important">
             <div class="col-md-10 d-flex align-items-center ">
                 <div class="text text-center pt-5 md-5">
-                    <p class="mb-4">Tìm việc làm, Cơ hội việc làm và Nghề nghiệp</p>
+                    <!-- <p class="mb-4">Tìm việc làm, Cơ hội việc làm và Nghề nghiệp</p> -->
+                    <div >
+                        <form action="timkiem.php" method="post" class="search-job">
+                            <div class="row no-gutters">
+                                <div class="col-md-10 mr-md-2">
+                                    <div class="form-group">
+                                        <div class="form-field">
+                                            <div class="icon"><span class="icon-map-marker"></span></div>
+                                            <input type="text" name="keyword" class="form-control" placeholder="Nhập từ khóa liên quan đến công việc bạn muốn tìm kiếm">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md">
+                                    <div class="form-group">
+                                        <div class="form-field">
+                                            <button type="submit" class="form-control btn btn-primary">Tìm kiếm</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        </div>
                     <h1 class="mb-5">Cách dễ dàng nhất để có được công việc mới của bạn</h1>
                     <div class="ftco-counter ftco-no-pt ftco-no-pb">
                         <div class="row">
@@ -75,7 +96,9 @@
                         </div>
                     </div>
                 </div>
+                
             </div>
+            
         </div>
     </div>
 </div>

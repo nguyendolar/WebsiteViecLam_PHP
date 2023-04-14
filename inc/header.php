@@ -3,7 +3,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
   <div class="container-fluid px-md-4	">
     <a class="navbar-brand" href="index.php">Website việc làm</a>
-
+    
     <div class="collapse navbar-collapse" id="ftco-nav">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active"><a href="index.php" class="nav-link">Trang chủ</a></li>
